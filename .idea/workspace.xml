@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="675e3441-dd93-4121-92a7-f0e2a1a0de67" name="Default" comment="" />
+    <list default="true" id="675e3441-dd93-4121-92a7-f0e2a1a0de67" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -44,6 +49,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aZjU7cVnlWD1Af3Y9rKOYWNFmL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -393,7 +401,7 @@
       <workItem from="1591001284619" duration="2707000" />
       <workItem from="1592728829496" duration="3244000" />
       <workItem from="1592733031151" duration="9003000" />
-      <workItem from="1592742950231" duration="11175000" />
+      <workItem from="1592742950231" duration="11364000" />
     </task>
     <servers />
   </component>
@@ -435,6 +443,14 @@
     </state>
     <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400/3840.519.1920.1040@0.0.2560.1400" timestamp="1586958860696" />
     <state x="1273" y="549" key="FileChooserDialogImpl/0.0.3072.1688@0.0.3072.1688" timestamp="1592733572509" />
+    <state x="1188" y="544" key="Github.ShareDialog" timestamp="1592754240668">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1188" y="544" key="Github.ShareDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1592754240668" />
+    <state x="868" y="277" key="Github.UntrackedFilesDialog" timestamp="1592754250846">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="868" y="277" key="Github.UntrackedFilesDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1592754250846" />
     <state width="2099" height="451" key="GridCell.Tab.0.bottom" timestamp="1592753934358">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
